@@ -13,8 +13,7 @@ A website created with Javascript/JQuery and HTML where ?????
 | Spec | Input | Output |
 | :-------------     | :------------- | :------------- |
 | **Homepage** | User accesses localhost:5004 | Homepage with user input form |
-| **Ignore non-alphabetical characters** | User input: COOL!!! | Output: COOL!!! |
-| **For words beginning with a vowel, add "way" to the end.**| User Input: ???| Output: ??? |
+| **For words beginning with a vowel, add "way" to the end.**| User Input: Also| Output: Alsoway |
 | **For words beginning with "y", treat "y" as a consonant.** | Input: "young" | Output: "oungyay" |
 | **For words beginning with one consonant, move the consonant to the end and add "ay."** | Input: "for" | Output: "orfay" |
 | **For words beginning with one or more consonants, move all of the first consecutive consonants to the end, and add "ay"** | Input: "smile" | Output: "ilesmay" |

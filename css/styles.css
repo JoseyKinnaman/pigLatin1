@@ -1,0 +1,22 @@
+.card {
+  text-align: center;
+  margin-top: 15%;
+}
+
+#result {
+  display: none;
+}
+
+body {
+  background-color: black;
+}
+
+img {
+  border-radius: 50%;
+  width: 200px;
+  border: 1px solid black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+}
