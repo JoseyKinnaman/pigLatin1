@@ -1,12 +1,12 @@
 # Pig Latin Translator
 
-#### A program that allows users to input ????? 04/01/2020
+#### A program that allows users to input text and have it translated into Pig Latin 04/01/2020
 
 #### By **Kelly Eidsvik and Jozy Kinnaman**
 
 ## Description
 
-A website created with Javascript/JQuery and HTML where ?????
+A website created with Javascript/JQuery and HTML where a user can input text and receive their input back in PIG LATIN!
 
 
 ### Specs
@@ -30,7 +30,7 @@ A website created with Javascript/JQuery and HTML where ?????
 4. Go nuts. 
 
 ## Known Bugs
-* No known bugs at this time.
+* Not all words return in Pig Latin.
 
 ## Technologies Used
 * JQuery
